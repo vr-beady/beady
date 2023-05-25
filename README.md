@@ -5,7 +5,7 @@
 ## 2023/5/25會議紀錄
 內積外積在空間中取得座標
 HOW to get旋轉角度? :
-1. ![acos反餘弦](http://tw.gitbook.net/c_standard_library/c_function_acos.html) 得到弧度
+1. [acos反餘弦](http://tw.gitbook.net/c_standard_library/c_function_acos.html) 得到弧度
 2. atan2()
 逆時針還是順時針? :
 外積
