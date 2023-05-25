@@ -2,7 +2,7 @@
 串珠確認檔
 修改方向: 燈光要亮一些、再增加一顆旁觀者camera、房間窗戶低一點(可以加一扇門)
 
-2023/5/25會議紀錄
+## 2023/5/25會議紀錄
 內積外積在空間中取得座標
 HOW to get旋轉角度? :
 1. ![acos反餘弦](http://tw.gitbook.net/c_standard_library/c_function_acos.html) 得到弧度
