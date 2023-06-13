@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// §£¶P√Ë¿Y
 public class ActivateAllDisplays : MonoBehaviour
 {
     void Start()

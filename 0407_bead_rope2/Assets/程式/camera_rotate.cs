@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// æﬁ±±√Ë¿Y≤æ∞ 
 public class camera_rotate : MonoBehaviour
 {
     // Start is called before the first frame update

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// 2D的顏色選取
 public class ColorPicker : MonoBehaviour
 {
     [SerializeField]
