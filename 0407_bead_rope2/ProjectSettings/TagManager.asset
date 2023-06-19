@@ -8,13 +8,13 @@ TagManager:
   - finger_l2
   - finger_l3
   - finger_l4
-  - finger_l0
   - finger_r0
   - finger_r1
   - finger_r2
   - finger_r3
   - finger_r4
   - finger_test
+  - finger_l0
   - finger_l0
   layers:
   - Default
